@@ -1,0 +1,547 @@
+2025-05-03 10:12:55,144 - werkzeug - WARNING -  * Debugger is active!
+2025-05-03 10:12:55,163 - werkzeug - INFO -  * Debugger PIN: 752-769-166
+2025-05-03 10:12:56,230 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-05-03 10:14:04,520 - werkzeug - INFO -  * Detected change in 'C:\\Users\\aisha\\OneDrive\\Desktop\\uni\\3rd year\\Project\\Project.py\\backend\\app\\tests\\performance_test.py', reloading
+2025-05-03 10:14:26,597 - werkzeug - WARNING -  * Debugger is active!
+2025-05-03 10:14:26,614 - werkzeug - INFO -  * Debugger PIN: 752-769-166
+2025-05-03 10:14:27,430 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-05-03 10:20:00,232 - werkzeug - INFO -  * Restarting with stat
+2025-05-03 10:20:18,831 - werkzeug - WARNING -  * Debugger is active!
+2025-05-03 10:20:18,844 - werkzeug - INFO -  * Debugger PIN: 752-769-166
+2025-05-03 10:20:19,484 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-05-03 10:20:28,181 - performance - INFO - POST /login - 401 - 309.77ms
+2025-05-03 10:20:28,183 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:28] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2025-05-03 10:20:28,451 - performance - INFO - POST /login - 401 - 256.0ms
+2025-05-03 10:20:28,452 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:28] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2025-05-03 10:20:28,683 - performance - INFO - POST /login - 401 - 219.0ms
+2025-05-03 10:20:28,685 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:28] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2025-05-03 10:20:28,991 - performance - INFO - POST /login - 401 - 296.92ms
+2025-05-03 10:20:28,993 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:28] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2025-05-03 10:20:29,206 - performance - INFO - POST /login - 401 - 205.09ms
+2025-05-03 10:20:29,208 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:29] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2025-05-03 10:20:29,267 - performance - INFO - GET /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 45.01ms
+2025-05-03 10:20:29,268 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:29] "GET /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:20:29,296 - performance - INFO - GET /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 19.0ms
+2025-05-03 10:20:29,297 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:29] "GET /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:20:29,321 - performance - INFO - GET /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 16.0ms
+2025-05-03 10:20:29,323 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:29] "GET /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:20:29,346 - performance - INFO - GET /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 15.01ms
+2025-05-03 10:20:29,348 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:29] "GET /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:20:29,372 - performance - INFO - GET /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 16.0ms
+2025-05-03 10:20:29,374 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:29] "GET /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:20:29,390 - performance - INFO - GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 1.99ms
+2025-05-03 10:20:29,392 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:29] "GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:20:29,404 - performance - INFO - GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 3.0ms
+2025-05-03 10:20:29,405 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:29] "GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:20:29,419 - performance - INFO - GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 3.0ms
+2025-05-03 10:20:29,420 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:29] "GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:20:29,432 - performance - INFO - GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 2.0ms
+2025-05-03 10:20:29,434 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:29] "GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:20:29,447 - performance - INFO - GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 2.99ms
+2025-05-03 10:20:29,448 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:29] "GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:20:29,471 - performance - INFO - GET /get_moods/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 9.98ms
+2025-05-03 10:20:29,473 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:29] "GET /get_moods/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:20:29,495 - performance - INFO - GET /get_moods/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 11.01ms
+2025-05-03 10:20:29,496 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:29] "GET /get_moods/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:20:29,516 - performance - INFO - GET /get_moods/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 10.99ms
+2025-05-03 10:20:29,517 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:29] "GET /get_moods/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:20:29,535 - performance - INFO - GET /get_moods/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 7.98ms
+2025-05-03 10:20:29,536 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:29] "GET /get_moods/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:20:29,555 - performance - INFO - GET /get_moods/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 9.98ms
+2025-05-03 10:20:29,557 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:29] "GET /get_moods/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:20:29,945 - performance - INFO - POST /log_mood - 201 - 377.03ms
+2025-05-03 10:20:29,947 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:29] "[35m[1mPOST /log_mood HTTP/1.1[0m" 201 -
+2025-05-03 10:20:30,277 - performance - INFO - POST /log_mood - 201 - 321.02ms
+2025-05-03 10:20:30,279 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:30] "[35m[1mPOST /log_mood HTTP/1.1[0m" 201 -
+2025-05-03 10:20:30,616 - performance - INFO - POST /log_mood - 201 - 330.12ms
+2025-05-03 10:20:30,618 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:30] "[35m[1mPOST /log_mood HTTP/1.1[0m" 201 -
+2025-05-03 10:20:30,972 - performance - INFO - POST /log_mood - 201 - 343.98ms
+2025-05-03 10:20:30,973 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:30] "[35m[1mPOST /log_mood HTTP/1.1[0m" 201 -
+2025-05-03 10:20:31,299 - performance - INFO - POST /log_mood - 201 - 316.98ms
+2025-05-03 10:20:31,300 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:31] "[35m[1mPOST /log_mood HTTP/1.1[0m" 201 -
+2025-05-03 10:20:31,325 - performance - INFO - GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 15.01ms
+2025-05-03 10:20:31,326 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:31] "GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:20:31,342 - performance - INFO - GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 8.01ms
+2025-05-03 10:20:31,344 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:31] "GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:20:31,358 - performance - INFO - GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 7.01ms
+2025-05-03 10:20:31,360 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:31] "GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:20:31,378 - performance - INFO - GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 8.0ms
+2025-05-03 10:20:31,379 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:31] "GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:20:31,396 - performance - INFO - GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 9.01ms
+2025-05-03 10:20:31,398 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:31] "GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:20:31,418 - performance - INFO - GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 9.0ms
+2025-05-03 10:20:31,420 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:31] "GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:20:31,436 - performance - INFO - GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 6.99ms
+2025-05-03 10:20:31,437 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:31] "GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:20:31,455 - performance - INFO - GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 6.99ms
+2025-05-03 10:20:31,456 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:31] "GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:20:31,472 - performance - INFO - GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 5.99ms
+2025-05-03 10:20:31,474 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:31] "GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:20:31,489 - performance - INFO - GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 7.0ms
+2025-05-03 10:20:31,491 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:31] "GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:20:31,513 - performance - INFO - GET /get_analytics/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 9.0ms
+2025-05-03 10:20:31,514 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:31] "GET /get_analytics/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:20:31,532 - performance - INFO - GET /get_analytics/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 10.99ms
+2025-05-03 10:20:31,534 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:31] "GET /get_analytics/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:20:31,551 - performance - INFO - GET /get_analytics/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 8.99ms
+2025-05-03 10:20:31,552 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:31] "GET /get_analytics/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:20:31,570 - performance - INFO - GET /get_analytics/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 9.0ms
+2025-05-03 10:20:31,572 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:31] "GET /get_analytics/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:20:31,589 - performance - INFO - GET /get_analytics/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 7.99ms
+2025-05-03 10:20:31,591 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:20:31] "GET /get_analytics/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:35:16,988 - werkzeug - INFO -  * Detected change in 'C:\\Users\\aisha\\OneDrive\\Desktop\\uni\\3rd year\\Project\\Project.py\\backend\\app\\tests\\performance_test.py', reloading
+2025-05-03 10:35:19,447 - werkzeug - INFO -  * Restarting with stat
+2025-05-03 10:35:40,065 - werkzeug - WARNING -  * Debugger is active!
+2025-05-03 10:35:40,083 - werkzeug - INFO -  * Debugger PIN: 752-769-166
+2025-05-03 10:35:40,861 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-05-03 10:36:08,532 - werkzeug - INFO -  * Detected change in 'C:\\Users\\aisha\\OneDrive\\Desktop\\uni\\3rd year\\Project\\Project.py\\backend\\app\\tests\\performance_test.py', reloading
+2025-05-03 10:36:10,661 - werkzeug - INFO -  * Restarting with stat
+2025-05-03 10:36:30,559 - werkzeug - WARNING -  * Debugger is active!
+2025-05-03 10:36:30,570 - werkzeug - INFO -  * Debugger PIN: 752-769-166
+2025-05-03 10:36:31,248 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-05-03 10:37:06,119 - performance - INFO - POST /login - 200 - 741.38ms
+2025-05-03 10:37:06,121 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:06] "POST /login HTTP/1.1" 200 -
+2025-05-03 10:37:06,546 - performance - INFO - POST /login - 200 - 414.02ms
+2025-05-03 10:37:06,547 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:06] "POST /login HTTP/1.1" 200 -
+2025-05-03 10:37:06,929 - performance - INFO - POST /login - 200 - 374.43ms
+2025-05-03 10:37:06,931 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:06] "POST /login HTTP/1.1" 200 -
+2025-05-03 10:37:07,341 - performance - INFO - POST /login - 200 - 398.33ms
+2025-05-03 10:37:07,342 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:07] "POST /login HTTP/1.1" 200 -
+2025-05-03 10:37:07,772 - performance - INFO - POST /login - 200 - 409.66ms
+2025-05-03 10:37:07,778 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:07] "POST /login HTTP/1.1" 200 -
+2025-05-03 10:37:07,916 - performance - INFO - GET /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 21.99ms
+2025-05-03 10:37:07,918 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:07] "GET /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:37:07,947 - performance - INFO - GET /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 19.0ms
+2025-05-03 10:37:07,949 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:07] "GET /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:37:08,011 - performance - INFO - GET /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 19.0ms
+2025-05-03 10:37:08,012 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:08] "GET /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:37:08,036 - performance - INFO - GET /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 15.01ms
+2025-05-03 10:37:08,037 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:08] "GET /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:37:08,064 - performance - INFO - GET /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 19.0ms
+2025-05-03 10:37:08,066 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:08] "GET /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:37:08,085 - performance - INFO - GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 2.01ms
+2025-05-03 10:37:08,087 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:08] "GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:37:08,099 - performance - INFO - GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 2.0ms
+2025-05-03 10:37:08,101 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:08] "GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:37:08,116 - performance - INFO - GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 3.99ms
+2025-05-03 10:37:08,118 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:08] "GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:37:08,131 - performance - INFO - GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 2.0ms
+2025-05-03 10:37:08,132 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:08] "GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:37:08,145 - performance - INFO - GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 3.98ms
+2025-05-03 10:37:08,146 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:08] "GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:37:08,168 - performance - INFO - GET /get_moods/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 9.0ms
+2025-05-03 10:37:08,170 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:08] "GET /get_moods/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:37:08,190 - performance - INFO - GET /get_moods/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 9.99ms
+2025-05-03 10:37:08,192 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:08] "GET /get_moods/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:37:08,211 - performance - INFO - GET /get_moods/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 10.99ms
+2025-05-03 10:37:08,212 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:08] "GET /get_moods/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:37:08,232 - performance - INFO - GET /get_moods/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 9.99ms
+2025-05-03 10:37:08,233 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:08] "GET /get_moods/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:37:08,257 - performance - INFO - GET /get_moods/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 12.0ms
+2025-05-03 10:37:08,259 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:08] "GET /get_moods/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:37:08,606 - performance - INFO - POST /log_mood - 201 - 335.98ms
+2025-05-03 10:37:08,608 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:08] "[35m[1mPOST /log_mood HTTP/1.1[0m" 201 -
+2025-05-03 10:37:08,979 - performance - INFO - POST /log_mood - 201 - 363.98ms
+2025-05-03 10:37:08,982 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:08] "[35m[1mPOST /log_mood HTTP/1.1[0m" 201 -
+2025-05-03 10:37:09,443 - performance - INFO - POST /log_mood - 201 - 451.99ms
+2025-05-03 10:37:09,444 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:09] "[35m[1mPOST /log_mood HTTP/1.1[0m" 201 -
+2025-05-03 10:37:10,097 - performance - INFO - POST /log_mood - 201 - 642.0ms
+2025-05-03 10:37:10,099 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:10] "[35m[1mPOST /log_mood HTTP/1.1[0m" 201 -
+2025-05-03 10:37:10,527 - performance - INFO - POST /log_mood - 201 - 411.99ms
+2025-05-03 10:37:10,529 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:10] "[35m[1mPOST /log_mood HTTP/1.1[0m" 201 -
+2025-05-03 10:37:10,547 - performance - INFO - GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 6.99ms
+2025-05-03 10:37:10,548 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:10] "GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:37:10,563 - performance - INFO - GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 5.99ms
+2025-05-03 10:37:10,564 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:10] "GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:37:10,580 - performance - INFO - GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 5.99ms
+2025-05-03 10:37:10,581 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:10] "GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:37:10,597 - performance - INFO - GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 5.99ms
+2025-05-03 10:37:10,599 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:10] "GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:37:10,613 - performance - INFO - GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 5.99ms
+2025-05-03 10:37:10,615 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:10] "GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:37:10,634 - performance - INFO - GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 9.01ms
+2025-05-03 10:37:10,636 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:10] "GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:37:10,652 - performance - INFO - GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 8.0ms
+2025-05-03 10:37:10,653 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:10] "GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:37:10,669 - performance - INFO - GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 8.01ms
+2025-05-03 10:37:10,670 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:10] "GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:37:10,685 - performance - INFO - GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 6.99ms
+2025-05-03 10:37:10,686 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:10] "GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:37:10,701 - performance - INFO - GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 6.99ms
+2025-05-03 10:37:10,702 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:10] "GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:37:10,723 - performance - INFO - GET /get_analytics/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 9.01ms
+2025-05-03 10:37:10,724 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:10] "GET /get_analytics/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:37:10,741 - performance - INFO - GET /get_analytics/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 9.99ms
+2025-05-03 10:37:10,742 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:10] "GET /get_analytics/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:37:10,759 - performance - INFO - GET /get_analytics/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 8.99ms
+2025-05-03 10:37:10,761 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:10] "GET /get_analytics/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:37:10,778 - performance - INFO - GET /get_analytics/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 8.99ms
+2025-05-03 10:37:10,780 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:10] "GET /get_analytics/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:37:10,796 - performance - INFO - GET /get_analytics/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 9.0ms
+2025-05-03 10:37:10,797 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:37:10] "GET /get_analytics/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 10:49:21,482 - werkzeug - INFO -  * Detected change in 'C:\\Users\\aisha\\OneDrive\\Desktop\\uni\\3rd year\\Project\\Project.py\\backend\\app\\tests\\performance_test.py', reloading
+2025-05-03 10:49:24,200 - werkzeug - INFO -  * Restarting with stat
+2025-05-03 10:49:44,768 - werkzeug - WARNING -  * Debugger is active!
+2025-05-03 10:49:44,783 - werkzeug - INFO -  * Debugger PIN: 752-769-166
+2025-05-03 10:49:45,458 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-05-03 14:03:04,520 - werkzeug - INFO -  * Restarting with stat
+2025-05-03 14:03:17,836 - werkzeug - WARNING -  * Debugger is active!
+2025-05-03 14:03:17,975 - werkzeug - INFO -  * Debugger PIN: 752-769-166
+2025-05-03 14:03:18,875 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-05-03 14:05:30,987 - performance - INFO - OPTIONS /login - 200 - 233.0ms
+2025-05-03 14:05:31,326 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:05:31] "OPTIONS /login HTTP/1.1" 200 -
+2025-05-03 14:05:32,696 - performance - INFO - POST /login - 401 - 1198.5ms
+2025-05-03 14:05:32,697 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:05:32] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2025-05-03 14:05:41,027 - performance - INFO - OPTIONS /login - 200 - 0.0ms
+2025-05-03 14:05:41,028 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:05:41] "OPTIONS /login HTTP/1.1" 200 -
+2025-05-03 14:05:43,121 - performance - INFO - POST /login - 200 - 2050.93ms
+2025-05-03 14:05:43,122 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:05:43] "POST /login HTTP/1.1" 200 -
+2025-05-03 14:05:43,412 - performance - INFO - OPTIONS /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:05:43,414 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:05:43] "OPTIONS /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:05:43,444 - performance - INFO - GET /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 12.01ms
+2025-05-03 14:05:43,445 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:05:43] "GET /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:05:46,256 - performance - INFO - OPTIONS /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:05:46,257 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:05:46] "OPTIONS /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:05:46,301 - performance - INFO - OPTIONS /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:05:46,303 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:05:46] "OPTIONS /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:05:46,304 - performance - INFO - OPTIONS /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:05:46,307 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:05:46] "OPTIONS /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:05:46,309 - performance - INFO - OPTIONS /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:05:46,311 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:05:46] "OPTIONS /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:05:46,313 - performance - INFO - OPTIONS /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:05:46,314 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:05:46] "OPTIONS /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:05:46,316 - performance - INFO - OPTIONS /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:05:46,319 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:05:46] "OPTIONS /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:05:46,330 - performance - INFO - GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 2.0ms
+2025-05-03 14:05:46,332 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:05:46] "GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:05:46,485 - performance - INFO - GET /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 89.99ms
+2025-05-03 14:05:46,489 - performance - INFO - GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 87.0ms
+2025-05-03 14:05:46,490 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:05:46] "GET /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:05:46,491 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:05:46] "GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:05:46,522 - performance - INFO - GET /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 112.0ms
+2025-05-03 14:05:46,525 - performance - INFO - GET /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 93.0ms
+2025-05-03 14:05:46,526 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:05:46] "GET /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:05:46,527 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:05:46] "GET /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:05:46,650 - performance - INFO - GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 319.0ms
+2025-05-03 14:05:46,651 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:05:46] "GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:06:02,779 - performance - INFO - OPTIONS /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:06:02,781 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:06:02] "OPTIONS /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:06:02,783 - performance - INFO - OPTIONS /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:06:02,785 - performance - INFO - OPTIONS /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:06:02,786 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:06:02] "OPTIONS /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=6%20months HTTP/1.1" 200 -
+2025-05-03 14:06:02,787 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:06:02] "OPTIONS /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=6%20months HTTP/1.1" 200 -
+2025-05-03 14:06:02,788 - performance - INFO - OPTIONS /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:06:02,790 - performance - INFO - OPTIONS /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:06:02,792 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:06:02] "OPTIONS /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=6%20months HTTP/1.1" 200 -
+2025-05-03 14:06:02,794 - performance - INFO - OPTIONS /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 1.0ms
+2025-05-03 14:06:02,794 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:06:02] "OPTIONS /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=6%20months HTTP/1.1" 200 -
+2025-05-03 14:06:02,797 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:06:02] "OPTIONS /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=6%20months HTTP/1.1" 200 -
+2025-05-03 14:06:02,802 - performance - INFO - GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 5.0ms
+2025-05-03 14:06:02,805 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:06:02] "GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:06:02,837 - performance - INFO - GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 37.0ms
+2025-05-03 14:06:02,841 - performance - INFO - GET /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 37.0ms
+2025-05-03 14:06:02,842 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:06:02] "GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=6%20months HTTP/1.1" 200 -
+2025-05-03 14:06:02,846 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:06:02] "GET /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=6%20months HTTP/1.1" 200 -
+2025-05-03 14:06:02,850 - performance - INFO - GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 13.99ms
+2025-05-03 14:06:02,854 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:06:02] "GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=6%20months HTTP/1.1" 200 -
+2025-05-03 14:06:02,859 - performance - INFO - GET /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 8.0ms
+2025-05-03 14:06:02,861 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:06:02] "GET /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=6%20months HTTP/1.1" 200 -
+2025-05-03 14:06:02,865 - performance - INFO - GET /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 10.0ms
+2025-05-03 14:06:02,866 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:06:02] "GET /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=6%20months HTTP/1.1" 200 -
+2025-05-03 14:06:06,685 - performance - INFO - OPTIONS /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:06:06,686 - performance - INFO - OPTIONS /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:06:06,687 - performance - INFO - OPTIONS /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:06:06,688 - performance - INFO - OPTIONS /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:06:06,689 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:06:06] "OPTIONS /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=1%20month HTTP/1.1" 200 -
+2025-05-03 14:06:06,690 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:06:06] "OPTIONS /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=1%20month HTTP/1.1" 200 -
+2025-05-03 14:06:06,691 - performance - INFO - OPTIONS /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:06:06,691 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:06:06] "OPTIONS /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=1%20month HTTP/1.1" 200 -
+2025-05-03 14:06:06,693 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:06:06] "OPTIONS /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=1%20month HTTP/1.1" 200 -
+2025-05-03 14:06:06,698 - performance - INFO - GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 3.0ms
+2025-05-03 14:06:06,699 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:06:06] "OPTIONS /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=1%20month HTTP/1.1" 200 -
+2025-05-03 14:06:06,701 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:06:06] "GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:06:06,710 - performance - INFO - GET /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 6.0ms
+2025-05-03 14:06:06,716 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:06:06] "GET /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=1%20month HTTP/1.1" 200 -
+2025-05-03 14:06:06,727 - performance - INFO - GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 14.74ms
+2025-05-03 14:06:06,732 - performance - INFO - GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 19.36ms
+2025-05-03 14:06:06,733 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:06:06] "GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=1%20month HTTP/1.1" 200 -
+2025-05-03 14:06:06,735 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:06:06] "GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=1%20month HTTP/1.1" 200 -
+2025-05-03 14:06:06,740 - performance - INFO - GET /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 12.01ms
+2025-05-03 14:06:06,743 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:06:06] "GET /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=1%20month HTTP/1.1" 200 -
+2025-05-03 14:06:06,746 - performance - INFO - GET /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 9.0ms
+2025-05-03 14:06:06,747 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:06:06] "GET /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=1%20month HTTP/1.1" 200 -
+2025-05-03 14:06:09,946 - performance - INFO - OPTIONS /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 1.01ms
+2025-05-03 14:06:09,947 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:06:09] "OPTIONS /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:06:09,948 - performance - INFO - OPTIONS /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:06:09,949 - performance - INFO - OPTIONS /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:06:09,950 - performance - INFO - OPTIONS /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:06:09,951 - performance - INFO - OPTIONS /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:06:09,953 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:06:09] "OPTIONS /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:06:09,954 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:06:09] "OPTIONS /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:06:09,955 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:06:09] "OPTIONS /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:06:09,956 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:06:09] "OPTIONS /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:06:09,960 - performance - INFO - OPTIONS /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 1.0ms
+2025-05-03 14:06:09,963 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:06:09] "OPTIONS /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:06:09,964 - performance - INFO - GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 2.0ms
+2025-05-03 14:06:09,966 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:06:09] "GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:06:09,974 - performance - INFO - GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 6.0ms
+2025-05-03 14:06:09,977 - performance - INFO - GET /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 6.0ms
+2025-05-03 14:06:09,979 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:06:09] "GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:06:09,980 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:06:09] "GET /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:06:09,986 - performance - INFO - GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 8.0ms
+2025-05-03 14:06:09,988 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:06:09] "GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:06:10,008 - performance - INFO - GET /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 26.0ms
+2025-05-03 14:06:10,011 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:06:10] "GET /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:06:10,016 - performance - INFO - GET /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 6.0ms
+2025-05-03 14:06:10,018 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:06:10] "GET /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:07:09,143 - performance - INFO - OPTIONS /login - 200 - 1.0ms
+2025-05-03 14:07:09,144 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:07:09] "OPTIONS /login HTTP/1.1" 200 -
+2025-05-03 14:07:10,101 - performance - INFO - POST /login - 200 - 664.27ms
+2025-05-03 14:07:10,102 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:07:10] "POST /login HTTP/1.1" 200 -
+2025-05-03 14:07:10,358 - performance - INFO - OPTIONS /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:07:10,359 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:07:10] "OPTIONS /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:07:10,374 - performance - INFO - GET /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 10.0ms
+2025-05-03 14:07:10,375 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:07:10] "GET /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:07:12,228 - performance - INFO - OPTIONS /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:07:12,231 - performance - INFO - OPTIONS /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 1.0ms
+2025-05-03 14:07:12,231 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:07:12] "OPTIONS /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:07:12,233 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:07:12] "OPTIONS /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:07:12,272 - performance - INFO - OPTIONS /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:07:12,274 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:07:12] "OPTIONS /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:07:12,275 - performance - INFO - OPTIONS /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:07:12,300 - performance - INFO - OPTIONS /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:07:12,301 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:07:12] "OPTIONS /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:07:12,303 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:07:12] "OPTIONS /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:07:12,308 - performance - INFO - OPTIONS /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:07:12,311 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:07:12] "OPTIONS /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:07:12,321 - performance - INFO - GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 4.0ms
+2025-05-03 14:07:12,324 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:07:12] "GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:07:12,331 - performance - INFO - GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 7.99ms
+2025-05-03 14:07:12,333 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:07:12] "GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:07:12,338 - performance - INFO - GET /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 9.98ms
+2025-05-03 14:07:12,341 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:07:12] "GET /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:07:12,345 - performance - INFO - GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 9.99ms
+2025-05-03 14:07:12,358 - performance - INFO - GET /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 11.0ms
+2025-05-03 14:07:12,358 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:07:12] "GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:07:12,360 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:07:12] "GET /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:07:12,366 - performance - INFO - GET /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 7.0ms
+2025-05-03 14:07:12,368 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:07:12] "GET /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:07:52,658 - performance - INFO - OPTIONS /login - 200 - 0.0ms
+2025-05-03 14:07:52,659 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:07:52] "OPTIONS /login HTTP/1.1" 200 -
+2025-05-03 14:07:53,264 - performance - INFO - POST /login - 200 - 601.29ms
+2025-05-03 14:07:53,265 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:07:53] "POST /login HTTP/1.1" 200 -
+2025-05-03 14:07:53,476 - performance - INFO - OPTIONS /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:07:53,476 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:07:53] "OPTIONS /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:07:53,490 - performance - INFO - GET /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 9.0ms
+2025-05-03 14:07:53,492 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:07:53] "GET /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:07:57,236 - performance - INFO - OPTIONS /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:07:57,238 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:07:57] "OPTIONS /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:07:57,241 - performance - INFO - OPTIONS /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 1.01ms
+2025-05-03 14:07:57,243 - performance - INFO - OPTIONS /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:07:57,244 - performance - INFO - OPTIONS /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:07:57,245 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:07:57] "OPTIONS /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:07:57,246 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:07:57] "OPTIONS /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:07:57,247 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:07:57] "OPTIONS /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:07:57,248 - performance - INFO - OPTIONS /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:07:57,251 - performance - INFO - OPTIONS /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:07:57,254 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:07:57] "OPTIONS /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:07:57,255 - performance - INFO - GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 2.99ms
+2025-05-03 14:07:57,256 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:07:57] "OPTIONS /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:07:57,259 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:07:57] "GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:07:57,264 - performance - INFO - GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 7.01ms
+2025-05-03 14:07:57,271 - performance - INFO - GET /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 10.0ms
+2025-05-03 14:07:57,272 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:07:57] "GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:07:57,274 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:07:57] "GET /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:07:57,286 - performance - INFO - GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 19.99ms
+2025-05-03 14:07:57,291 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:07:57] "GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:07:57,304 - performance - INFO - GET /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 17.0ms
+2025-05-03 14:07:57,307 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:07:57] "GET /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:07:57,320 - performance - INFO - GET /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 13.99ms
+2025-05-03 14:07:57,321 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:07:57] "GET /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:08:43,122 - performance - INFO - OPTIONS /login - 200 - 0.0ms
+2025-05-03 14:08:43,123 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:08:43] "OPTIONS /login HTTP/1.1" 200 -
+2025-05-03 14:08:43,761 - performance - INFO - POST /login - 401 - 621.32ms
+2025-05-03 14:08:43,763 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:08:43] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2025-05-03 14:08:51,041 - performance - INFO - OPTIONS /login - 200 - 0.0ms
+2025-05-03 14:08:51,042 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:08:51] "OPTIONS /login HTTP/1.1" 200 -
+2025-05-03 14:08:51,656 - performance - INFO - POST /login - 200 - 566.88ms
+2025-05-03 14:08:51,657 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:08:51] "POST /login HTTP/1.1" 200 -
+2025-05-03 14:08:51,908 - performance - INFO - OPTIONS /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.96ms
+2025-05-03 14:08:51,909 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:08:51] "OPTIONS /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:08:51,926 - performance - INFO - GET /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 13.01ms
+2025-05-03 14:08:51,927 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:08:51] "GET /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:08:53,307 - performance - INFO - OPTIONS /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:08:53,308 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:08:53] "OPTIONS /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:08:53,313 - performance - INFO - OPTIONS /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:08:53,315 - performance - INFO - OPTIONS /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:08:53,316 - performance - INFO - OPTIONS /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 1.0ms
+2025-05-03 14:08:53,317 - performance - INFO - OPTIONS /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:08:53,318 - performance - INFO - OPTIONS /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:08:53,320 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:08:53] "OPTIONS /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:08:53,321 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:08:53] "OPTIONS /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:08:53,322 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:08:53] "OPTIONS /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:08:53,323 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:08:53] "OPTIONS /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:08:53,324 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:08:53] "OPTIONS /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:08:53,362 - performance - INFO - GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 2.0ms
+2025-05-03 14:08:53,366 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:08:53] "GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:08:53,374 - performance - INFO - GET /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 6.99ms
+2025-05-03 14:08:53,375 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:08:53] "GET /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:08:53,385 - performance - INFO - GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 21.0ms
+2025-05-03 14:08:53,386 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:08:53] "GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:08:53,399 - performance - INFO - GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 6.98ms
+2025-05-03 14:08:53,401 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:08:53] "GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:08:53,405 - performance - INFO - GET /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 9.99ms
+2025-05-03 14:08:53,407 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:08:53] "GET /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:08:53,413 - performance - INFO - GET /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 7.0ms
+2025-05-03 14:08:53,414 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:08:53] "GET /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:26:13,564 - werkzeug - INFO -  * Detected change in 'C:\\Users\\aisha\\OneDrive\\Desktop\\uni\\3rd year\\Project\\Project.py\\backend\\app\\routes.py', reloading
+2025-05-03 14:26:24,829 - werkzeug - INFO -  * Restarting with stat
+2025-05-03 14:26:42,633 - werkzeug - WARNING -  * Debugger is active!
+2025-05-03 14:26:42,647 - werkzeug - INFO -  * Debugger PIN: 752-769-166
+2025-05-03 14:26:43,358 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-05-03 14:26:45,213 - werkzeug - INFO -  * Detected change in 'C:\\Users\\aisha\\OneDrive\\Desktop\\uni\\3rd year\\Project\\Project.py\\backend\\app\\routes.py', reloading
+2025-05-03 14:26:46,153 - werkzeug - INFO -  * Restarting with stat
+2025-05-03 14:26:56,547 - werkzeug - WARNING -  * Debugger is active!
+2025-05-03 14:26:56,558 - werkzeug - INFO -  * Debugger PIN: 752-769-166
+2025-05-03 14:26:57,075 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-05-03 14:30:46,499 - werkzeug - INFO -  * Detected change in 'C:\\Users\\aisha\\OneDrive\\Desktop\\uni\\3rd year\\Project\\Project.py\\backend\\app\\routes.py', reloading
+2025-05-03 14:30:47,438 - werkzeug - INFO -  * Restarting with stat
+2025-05-03 14:30:57,761 - werkzeug - WARNING -  * Debugger is active!
+2025-05-03 14:30:57,770 - werkzeug - INFO -  * Debugger PIN: 752-769-166
+2025-05-03 14:30:58,333 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-05-03 14:31:25,047 - werkzeug - INFO -  * Detected change in 'C:\\Users\\aisha\\OneDrive\\Desktop\\uni\\3rd year\\Project\\Project.py\\backend\\app\\routes.py', reloading
+2025-05-03 14:31:25,959 - werkzeug - INFO -  * Restarting with stat
+2025-05-03 14:31:36,305 - werkzeug - WARNING -  * Debugger is active!
+2025-05-03 14:31:36,314 - werkzeug - INFO -  * Debugger PIN: 752-769-166
+2025-05-03 14:31:36,753 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-05-03 14:31:41,418 - werkzeug - INFO -  * Detected change in 'C:\\Users\\aisha\\OneDrive\\Desktop\\uni\\3rd year\\Project\\Project.py\\backend\\app\\routes.py', reloading
+2025-05-03 14:31:42,364 - werkzeug - INFO -  * Restarting with stat
+2025-05-03 14:31:53,273 - werkzeug - WARNING -  * Debugger is active!
+2025-05-03 14:31:53,283 - werkzeug - INFO -  * Debugger PIN: 752-769-166
+2025-05-03 14:31:53,713 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-05-03 14:31:56,880 - werkzeug - INFO -  * Detected change in 'C:\\Users\\aisha\\OneDrive\\Desktop\\uni\\3rd year\\Project\\Project.py\\backend\\app\\routes.py', reloading
+2025-05-03 14:31:57,853 - werkzeug - INFO -  * Restarting with stat
+2025-05-03 14:32:08,607 - werkzeug - WARNING -  * Debugger is active!
+2025-05-03 14:32:08,631 - werkzeug - INFO -  * Debugger PIN: 752-769-166
+2025-05-03 14:32:09,229 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-05-03 14:32:19,838 - werkzeug - INFO -  * Detected change in 'C:\\Users\\aisha\\OneDrive\\Desktop\\uni\\3rd year\\Project\\Project.py\\backend\\app\\routes.py', reloading
+2025-05-03 14:32:20,787 - werkzeug - INFO -  * Restarting with stat
+2025-05-03 14:32:31,792 - werkzeug - WARNING -  * Debugger is active!
+2025-05-03 14:32:31,802 - werkzeug - INFO -  * Debugger PIN: 752-769-166
+2025-05-03 14:32:32,262 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-05-03 14:33:51,455 - performance - INFO - OPTIONS /login - 200 - 0.0ms
+2025-05-03 14:33:51,457 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:33:51] "OPTIONS /login HTTP/1.1" 200 -
+2025-05-03 14:33:52,044 - performance - INFO - POST /login - 200 - 581.93ms
+2025-05-03 14:33:52,046 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:33:52] "POST /login HTTP/1.1" 200 -
+2025-05-03 14:33:52,282 - performance - INFO - OPTIONS /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:33:52,284 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:33:52] "OPTIONS /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:33:52,304 - performance - INFO - GET /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 16.0ms
+2025-05-03 14:33:52,305 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:33:52] "GET /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:33:55,177 - performance - INFO - OPTIONS /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:33:55,179 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:33:55] "OPTIONS /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:33:55,181 - performance - INFO - OPTIONS /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:33:55,182 - performance - INFO - OPTIONS /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:33:55,183 - performance - INFO - OPTIONS /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:33:55,184 - performance - INFO - OPTIONS /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:33:55,186 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:33:55] "OPTIONS /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:33:55,187 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:33:55] "OPTIONS /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:33:55,188 - performance - INFO - OPTIONS /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:33:55,190 - performance - INFO - OPTIONS /ml/predict_mood/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:33:55,191 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:33:55] "OPTIONS /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:33:55,192 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:33:55] "OPTIONS /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:33:55,197 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:33:55] "OPTIONS /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:33:55,198 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:33:55] "OPTIONS /ml/predict_mood/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:33:55,205 - performance - INFO - GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 5.0ms
+2025-05-03 14:33:55,208 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:33:55] "GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:33:55,220 - performance - INFO - GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 17.01ms
+2025-05-03 14:33:55,224 - performance - INFO - GET /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 15.0ms
+2025-05-03 14:33:55,225 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:33:55] "GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:33:55,227 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:33:55] "GET /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:33:55,240 - performance - INFO - GET /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 14.0ms
+2025-05-03 14:33:55,245 - performance - INFO - GET /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 31.0ms
+2025-05-03 14:33:55,245 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:33:55] "GET /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:33:55,248 - performance - INFO - GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 31.0ms
+2025-05-03 14:33:55,249 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:33:55] "GET /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:33:55,251 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:33:55] "GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:33:55,293 - performance - INFO - GET /ml/predict_mood/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 64.0ms
+2025-05-03 14:33:55,294 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:33:55] "GET /ml/predict_mood/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:34:12,148 - performance - INFO - OPTIONS /get_suggestions_by_date/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:34:12,150 - performance - INFO - OPTIONS /ml/predict_mood/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:34:12,150 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:12] "OPTIONS /get_suggestions_by_date/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:34:12,151 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:12] "OPTIONS /ml/predict_mood/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:34:12,167 - performance - INFO - GET /ml/predict_mood/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 7.99ms
+2025-05-03 14:34:12,168 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:12] "GET /ml/predict_mood/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:34:12,207 - performance - INFO - GET /get_suggestions_by_date/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 50.99ms
+2025-05-03 14:34:12,208 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:12] "GET /get_suggestions_by_date/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:34:25,244 - performance - INFO - OPTIONS /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:34:25,246 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:25] "OPTIONS /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:34:25,260 - performance - INFO - GET /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 10.0ms
+2025-05-03 14:34:25,261 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:25] "GET /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:34:29,210 - performance - INFO - OPTIONS /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:34:29,211 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:29] "OPTIONS /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:34:29,214 - performance - INFO - OPTIONS /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:34:29,217 - performance - INFO - OPTIONS /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:34:29,218 - performance - INFO - OPTIONS /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:34:29,219 - performance - INFO - OPTIONS /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:34:29,220 - performance - INFO - OPTIONS /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:34:29,221 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:29] "OPTIONS /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:34:29,224 - performance - INFO - OPTIONS /ml/predict_mood/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:34:29,225 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:29] "OPTIONS /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:34:29,226 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:29] "OPTIONS /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:34:29,227 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:29] "OPTIONS /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:34:29,229 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:29] "OPTIONS /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:34:29,230 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:29] "OPTIONS /ml/predict_mood/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:34:29,238 - performance - INFO - GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 3.01ms
+2025-05-03 14:34:29,239 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:29] "GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:34:29,249 - performance - INFO - GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 7.0ms
+2025-05-03 14:34:29,250 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:29] "GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:34:29,255 - performance - INFO - GET /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 10.0ms
+2025-05-03 14:34:29,258 - performance - INFO - GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 11.0ms
+2025-05-03 14:34:29,262 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:29] "GET /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:34:29,265 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:29] "GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:34:29,269 - performance - INFO - GET /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 9.0ms
+2025-05-03 14:34:29,276 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:29] "GET /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:34:29,281 - performance - INFO - GET /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 10.0ms
+2025-05-03 14:34:29,285 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:29] "GET /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:34:29,291 - performance - INFO - GET /ml/predict_mood/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 16.0ms
+2025-05-03 14:34:29,292 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:29] "GET /ml/predict_mood/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:34:46,304 - performance - INFO - OPTIONS /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 1.0ms
+2025-05-03 14:34:46,310 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:46] "OPTIONS /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:34:46,327 - performance - INFO - GET /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 11.0ms
+2025-05-03 14:34:46,328 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:46] "GET /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:34:47,193 - performance - INFO - OPTIONS /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 1.0ms
+2025-05-03 14:34:47,194 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:47] "OPTIONS /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:34:47,197 - performance - INFO - OPTIONS /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:34:47,199 - performance - INFO - OPTIONS /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:34:47,201 - performance - INFO - OPTIONS /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:34:47,202 - performance - INFO - OPTIONS /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:34:47,202 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:47] "OPTIONS /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:34:47,205 - performance - INFO - OPTIONS /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:34:47,206 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:47] "OPTIONS /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:34:47,207 - performance - INFO - OPTIONS /ml/predict_mood/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:34:47,208 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:47] "OPTIONS /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:34:47,209 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:47] "OPTIONS /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:34:47,211 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:47] "OPTIONS /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:34:47,214 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:47] "OPTIONS /ml/predict_mood/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:34:47,218 - performance - INFO - GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 3.0ms
+2025-05-03 14:34:47,222 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:47] "GET /get_cycles/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:34:47,226 - performance - INFO - GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 7.0ms
+2025-05-03 14:34:47,227 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:47] "GET /get_energy_levels_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:34:47,233 - performance - INFO - GET /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 9.0ms
+2025-05-03 14:34:47,236 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:47] "GET /get_cravings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:34:47,240 - performance - INFO - GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 9.99ms
+2025-05-03 14:34:47,243 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:47] "GET /get_feelings_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:34:47,246 - performance - INFO - GET /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 9.0ms
+2025-05-03 14:34:47,251 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:47] "GET /get_sentiment_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:34:47,258 - performance - INFO - GET /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 11.0ms
+2025-05-03 14:34:47,261 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:47] "GET /get_notes_summary_by_phase/L1yhhfQr50hDacTRTP120BQtq0i1?time_range=3%20months HTTP/1.1" 200 -
+2025-05-03 14:34:47,266 - performance - INFO - GET /ml/predict_mood/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 14.0ms
+2025-05-03 14:34:47,268 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:47] "GET /ml/predict_mood/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:34:48,130 - performance - INFO - OPTIONS /get_suggestions_by_date/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 0.0ms
+2025-05-03 14:34:48,131 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:48] "OPTIONS /get_suggestions_by_date/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:34:48,147 - performance - INFO - GET /get_suggestions_by_date/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 5.99ms
+2025-05-03 14:34:48,148 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:48] "GET /get_suggestions_by_date/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:34:48,149 - performance - INFO - GET /ml/predict_mood/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 16.0ms
+2025-05-03 14:34:48,151 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:48] "GET /ml/predict_mood/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -
+2025-05-03 14:34:48,947 - performance - INFO - GET /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 - 200 - 12.0ms
+2025-05-03 14:34:48,948 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 14:34:48] "GET /get_current_cycle_info/L1yhhfQr50hDacTRTP120BQtq0i1 HTTP/1.1" 200 -

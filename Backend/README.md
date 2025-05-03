@@ -80,7 +80,7 @@ I designed my MongoDB collections to balance flexibility and performance:
 
 ### Installation Steps
 
-1. Clone my repository
+1. Clone repository
 ```bash
 git clone https://github.com/AishaKram/Nur..git
 cd Backend
@@ -121,5 +121,4 @@ python -m unittest discover -s app/tests
 ```
 
 The performance tests in `app/tests/performance_test.py` test ML components.
-
 
