@@ -82,7 +82,8 @@ I designed my MongoDB collections to balance flexibility and performance:
 
 1. Clone repository
 ```bash
-git clone https://github.com/AishaKram/Nur..git
+git clone https://github.com/aishaKram/Nur..git
+>>>>>>> 44ba27e2 (changing url for git repo)
 cd Backend
 ```
 
