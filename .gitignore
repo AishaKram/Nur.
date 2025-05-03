@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment 
+venv/
+venv*/
+virtualenv/
+ENV/
+env/
+.env/
+.venv/
+env.bak/
+.env.bak/
+
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+.flutter-plugins
+.flutter-plugins-dependencies
+*.iml
+
+# Firebase credentials (for security)
+*firebase-adminsdk*.json
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Local configuration
+*.env
+local_settings.py
+
+# Cache files
+*.dill
+*.dill.track.dill
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.dbBackend/venv/
+Backend/venv/**
+**/__pycache__/
+*.pyc

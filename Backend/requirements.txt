@@ -1,0 +1,15 @@
+# Dependencies - using pre-built packages
+Flask==2.0.1 
+Flask-PyMongo==2.3.0
+firebase-admin==4.0.0
+pymongo==3.12.0
+python-dotenv==0.19.0
+pandas==2.2.3  # Updated to latest compatible version
+textblob==0.17.1  # Simpler NLP library (fallback)
+joblib==1.3.2
+
+# ML libraries for enhanced emotion detection
+transformers==4.37.2  # Hugging Face transformers for emotion detection
+torch>=2.2.0  # PyTorch for running the models 
+scikit-learn==1.3.2  # For ML utilities
+nltk==3.8.1  # Enhanced NLP capabilities
