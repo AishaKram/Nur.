@@ -206,11 +206,64 @@ class SuggestionModel(BaseCollection):
         return list(self.find(query))
 
 
+class PeriodLogModel(BaseCollection):
+    # Period log collection operations
+    
+    def __init__(self):
+        super().__init__('period_logs')
+    
+    def create_period_log(self, user_id, cycle_id, start_date, flow_level, symptoms=None):
+        # Logs period information with symptoms
+        log_data = {
+            "user_id": user_id,
+            "cycle_id": cycle_id,
+            "start_date": start_date,
+            "flow_level": flow_level,
+            "created_at": datetime.now()
+        }
+        
+        if symptoms:
+            log_data["symptoms"] = symptoms
+            
+        return self.insert_one(log_data)
+    
+    def get_period_logs_by_user(self, user_id, start_date=None, end_date=None):
+        # Gets all period logs for a user in a specific time range
+        query = {"user_id": user_id}
+        
+        if start_date or end_date:
+            date_query = {}
+            if start_date:
+                date_query["$gte"] = start_date
+            if end_date:
+                date_query["$lte"] = end_date
+            query["start_date"] = date_query
+            
+        return list(self.find(query, sort=[("start_date", -1)]))
+    
+    def get_period_logs_by_cycle(self, cycle_id):
+        # Gets all period logs associated with a specific cycle
+        return list(self.find({"cycle_id": cycle_id}, sort=[("start_date", 1)]))
+    
+    def get_symptoms_frequency(self, user_id):
+        # Analyzes symptom frequency across all logs
+        symptoms_count = {}
+        logs = self.get_period_logs_by_user(user_id)
+        
+        for log in logs:
+            if "symptoms" in log:
+                for symptom in log["symptoms"]:
+                    symptoms_count[symptom] = symptoms_count.get(symptom, 0) + 1
+                    
+        return symptoms_count
+
+
 # Create instances for easy import
 users = UserModel()
 cycles = CycleModel()
 moods = MoodModel()
 suggestions = SuggestionModel()
+period_logs = PeriodLogModel()
 
 
 # Backwards compatibility functions to maintain existing codebase
@@ -253,3 +306,12 @@ def create_suggestion(phase, recommendation):
 
 def get_suggestions_by_phase(phase):
     return suggestions.get_suggestions_by_phase(phase)
+
+def get_period_logs_collection():
+    return mongo.db.period_logs
+
+def create_period_log(user_id, cycle_id, start_date, flow_level, symptoms=None):
+    return period_logs.create_period_log(user_id, cycle_id, start_date, flow_level, symptoms)
+
+def get_period_logs_by_user(user_id, start_date=None, end_date=None):
+    return period_logs.get_period_logs_by_user(user_id, start_date, end_date)

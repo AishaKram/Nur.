@@ -6,14 +6,6 @@ A comprehensive menstrual cycle tracking application with machine learning insig
 
 I created this app to help women understand their unique cycle patterns. After talking with friends who were frustrated with existing period trackers, I wanted to build something that did more than just track dates - it actually learns from your data to provide personalized insights. The app combines a Flutter mobile frontend with a Flask backend API and MongoDB database.
 
-## System Architecture
-
-The app uses a client-server architecture:
-- **Flutter Mobile App**: Handles user interaction and visualization
-- **Flask Backend**: Processes data and runs ML analysis
-- **MongoDB Database**: Stores user data securely
-- **Firebase**: Handles authentication and secure data storage
-
 The ML components analyze patterns in cycle data, moods, and symptoms to generate personalized insights.
 
 ## Key Features
@@ -58,40 +50,6 @@ Some challenges I overcame included:
 - Implementing the machine learning model for mood prediction
 - Creating responsive designs that work across different devices
 - Connecting the Flutter frontend with Flask backend securely
-
-## Future Plans
-
-With more time, I'd love to add:
-- Apple Health/Google Fit integration for holistic health tracking
-- Temperature tracking for fertility awareness
-- More advanced ML models as users generate more data
-- Optional anonymous data sharing for research with explicit consent
-
-## What I learned:
-
-*Frontend* 
-- Flutter state management
-- API integration
-- Custom UI design
-- Working with ML-generated data
-
-*Backend*
-- Building ML-powered APIs
-- Working with NoSQL databases
-- Firebase authentication
-- Flask application architecture
-- Sentiment analysis and NLP
-
-## Future Improvements
-
-If I had more time, I'd add:
-- More detailed symptom tracking
-- Calendar integration
-- Ability to export data to share with healthcare providers
-- More sophisticated ML models as data grows
-- Additional API endpoints for more detailed insights
-- Improved test coverage
-- Cloud deployment with auto-scaling
 
 
 ## Acknowledgements

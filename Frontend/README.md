@@ -2,14 +2,6 @@
 
 This is the Flutter mobile app I developed for my final year project, designed to provide women with a comprehensive tool for understanding their menstrual cycles.
 
-## About the App
-
-After looking at existing period tracker apps, I noticed they often lacked personalization and mostly just counted days. I wanted to create something that actually learned from your data and provided meaningful insights, not just reminders about when your next period might start.
-
-My app focuses on:
-- Simple tracking of periods, symptoms, and moods
-- Visual cycle phase representation with my custom-designed UI
-- ML-powered insights that get more accurate as you use the app
 
 ## Features
 
@@ -54,22 +46,6 @@ The app connects to my Flask backend. You'll need to update the API URL in `lib/
 static const String baseUrl = "http://127.0.0.1:5000";  
 ```
 
-## Project Structure
-
-I organized the code into:
-
-- `lib/`: Main Dart code
-  - `main.dart`: Entry point
-  - `homepage.dart`: Main dashboard with cycle visualization
-  - `track_page.dart`: Where users log their data
-  - `trends_page.dart`: Charts and insights
-  - `settings_page.dart`: User preferences
-  - `api_service.dart`: Backend communication
-  - `util/`: Helper functions
-
-- `assets/`: UI assets
-  - `images/`: Background images and motifs
-  - `fonts/`: Custom Afacad font family
 
 ## Challenges Overcome
 
