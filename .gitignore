@@ -19,7 +19,23 @@ var/
 .installed.cfg
 *.egg
 
-# Virtual Environment 
+# Security-related exclusions - Sensitive files
+*firebase-adminsdk*.json
+*-firebase-adminsdk-*.json
+Backend/config/*firebase*.json
+*.pem
+*.key
+*api_key*
+*apikey*
+*secret*
+*credential*
+*password*
+*.keystore
+*google-services.json
+*GoogleService-Info.plist
+*serviceAccount*.json
+
+# Virtual Environment - More comprehensive exclusions
 venv/
 venv*/
 virtualenv/
@@ -29,6 +45,19 @@ env/
 .venv/
 env.bak/
 .env.bak/
+Backend/venv/
+Backend/venv/**
+**/venv/**
+**/.venv/**
+
+# Exclude specific large files
+**/torch/lib/torch_cpu.dll
+**/torch/lib/dnnl.lib
+**/torch_cpu.dll
+**/dnnl.lib
+**/*.dll
+**/*.lib
+**/*.pyd
 
 # Flutter/Dart
 .dart_tool/
@@ -62,7 +91,11 @@ local_settings.py
 .DS_Store
 
 # Windows
-Thumbs.dbBackend/venv/
-Backend/venv/**
+Thumbs.db
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
 **/__pycache__/
 *.pyc
